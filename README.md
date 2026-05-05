@@ -16,7 +16,7 @@
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100vw;">
-  <img src="./asset/teaser.png" style="width: 60vw; height: auto;"/>
+  <img src="./asset/teaser.PNG" style="width: 60vw; height: auto;"/>
 </div>
 
 
